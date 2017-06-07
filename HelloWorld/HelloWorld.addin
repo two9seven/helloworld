@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<RevitAddIns>
+<AddIn Type="Command">
+    <Name>HelloWorld</Name>
+    <FullClassName>ec_helloworld</FullClassName>
+    <Text>HelloWorld</Text>
+    <Description>Show Hello World</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <Assembly>C:\Users\dbwilson\AppData\Roaming\Autodesk\Revit\Addins\2016\Output_HelloWorld\HelloWorld.dll</Assembly>
+    <AddInId>239BD853-36E4-461f-9171-C5ACEDA4E723</AddInId>
+    <VendorId>VendorME</VendorId>
+    <VendorDescription>vendorME</VendorDescription>
+  </AddIn>
+</RevitAddIns>
